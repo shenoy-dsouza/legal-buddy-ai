@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+langchain==0.3.20
+faiss-cpu==1.10.0
+pydantic
+langchain-community==0.3.19
+sentence-transformers==3.4.1
+pypdf==5.3.1
+ollama==0.4.7
